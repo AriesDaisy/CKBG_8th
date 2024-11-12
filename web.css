@@ -1,0 +1,75 @@
+/*封面*/
+.container_top{
+    display: flex;
+    background-color: #E2CFE5;
+    padding: 10px;
+}
+.title{
+    margin: 20px;padding: 7px;
+}
+.welcome{
+    display: flex;
+    background-color: #E2CFE5;
+    padding: 25px;
+}
+/*照片*/
+.pic{
+    display: flex;
+    padding: 10px;
+}
+/*封底*/
+.container_end {
+    display: flex;
+    background-color: #E2CFE5;
+    padding: 1px;
+}
+.logo {
+    width: 150px;
+    margin: 5px;padding: 7px;
+    background-color: #E2CFE5;
+}
+.follow{
+    width: 1000px;
+    margin: 50px;padding: 1px;
+    background-color: #E2CFE5;
+}
+.share-words{
+    width: 600px;
+    margin: 50px;padding: 10px;
+    background-color: #E2CFE5;
+}
+.share-button{
+    width: 450px;
+    margin: 50px;padding: 10px;
+}
+/*Content*/
+.content{
+    margin: 30px;
+}
+/*Card*/
+.card-container {
+    display: flex;              /* 使用Flexbox */
+    justify-content: center;    /* 水平置中 */
+    /*align-items: center;  */      /* 垂直置中 */
+    /*height: 100vh;   */           /* 讓容器佔滿整個視窗高度 */
+}
+.card {
+    width: 300px;               /* 設定card的寬度 */
+    padding: 20px;              /* 增加內邊距 */
+    background-color: #fffefe;  /* card的背景色 */
+    text-align: center;         /* 文字置中 */
+}
+/*btn*/
+.btn{
+    /*background-color: rgb(218, 191, 246);*/
+    margin: 30px;padding: 10px;
+    border: 2px solid #000000;
+    text-decoration: none;
+}
+/*activity_record*/
+.card{
+    margin: 30px;       /* 文字置中 */
+}
+.act{
+    display: flex;
+}
