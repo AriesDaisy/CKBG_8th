@@ -24,13 +24,15 @@
     padding: 1px;
 }
 .logo {
-    width: 150px;
+    width: 200px;
+    height: 200px;
     margin: 5px;padding: 7px;
     background-color: #E2CFE5;
 }
 .follow{
     width: 1000px;
-    margin: 50px;padding: 1px;
+    margin: 50px;
+    /*padding: 1px;*/
     background-color: #E2CFE5;
 }
 /*
